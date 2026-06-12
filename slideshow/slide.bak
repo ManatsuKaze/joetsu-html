@@ -4,7 +4,7 @@
 <META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
 <META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 11.0.0.0 for Windows">
 <META http-equiv="Content-Style-Type" content="text/css">
-<TITLE>‚è`V‘O‹´•Ò@˜Hü‚ÌˆÚ‚è•Ï‚í‚è@ƒXƒ‰ƒCƒh-^‰Ä‚Ì•—</TITLE>
+<TITLE>ï¿½ï¿½ï¿½ï¿½`ï¿½Vï¿½Oï¿½ï¿½ï¿½Ò@ï¿½Hï¿½ï¿½ï¿½ÌˆÚ‚ï¿½Ï‚ï¿½ï¿½@ï¿½Xï¿½ï¿½ï¿½Cï¿½h-ï¿½^ï¿½Ä‚Ì•ï¿½</TITLE>
 
 
 <SCRIPT TYPE="text/JavaScript">
@@ -76,7 +76,7 @@ document.slideshow.src = images[frame].src;
 <!--
 H1.TITLE {
 font-size : 20 pt;
-font-family : "‚c‚g‚o•½¬–¾’©‘ÌW7";
+font-family : "ï¿½cï¿½gï¿½oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½W7";
 color : #009933;
 }
 -->
@@ -89,22 +89,22 @@ color : #009933;
 <TABLE width="750" bgcolor="#FFFFFF" cellspacing="0">
   <TBODY>
     <TR>
-      <TD align="left" height="260" rowspan="3" width="640"><IMG name="slideshow" id="slideshow" src="image/050.gif" border="0" align="bottom" alt="‚è`V‘O‹´•ÒE˜Hü‚ÌˆÚ‚è•Ï‚í‚è"></TD>
-      <TD align="center" bgcolor="#e8ffe8"><A target="_top" href="../../index.html"><FONT size="-1">^‰Ä‚Ì•—</FONT></A></TD>
+      <TD align="left" height="260" rowspan="3" width="640"><IMG name="slideshow" id="slideshow" src="image/050.gif" border="0" align="bottom" alt="ï¿½ï¿½ï¿½ï¿½`ï¿½Vï¿½Oï¿½ï¿½ï¿½ÒEï¿½Hï¿½ï¿½ï¿½ÌˆÚ‚ï¿½Ï‚ï¿½ï¿½"></TD>
+      <TD align="center" bgcolor="#e8ffe8"><A target="_top" href="../../index.html"><FONT size="-1">ï¿½^ï¿½Ä‚Ì•ï¿½</FONT></A></TD>
     </TR>
     <TR>
-      <TD align="center" valign="middle" bgcolor="#e8ffe8"><INPUT type="button" value="Ž©“®" onclick="if (timeout_id == null) animate()" style="font-size : 15px;font-weight : bold;color : #ffffff;background-color : #002800;width : 45px;height : 22px;"><BR>
+      <TD align="center" valign="middle" bgcolor="#e8ffe8"><INPUT type="button" value="ï¿½ï¿½ï¿½ï¿½" onclick="if (timeout_id == null) animate()" style="font-size : 15px;font-weight : bold;color : #ffffff;background-color : #002800;width : 45px;height : 22px;"><BR>
       <BR>
-      <INPUT type="button" value="’âŽ~" onclick="if (timeout_id) clearTimeout(timeout_id); timeout_id=null;" style="font-size : 15px;font-weight : bold;color : #ffffff;background-color : #002800;width : 45px;height : 22px;"><BR>
+      <INPUT type="button" value="ï¿½ï¿½~" onclick="if (timeout_id) clearTimeout(timeout_id); timeout_id=null;" style="font-size : 15px;font-weight : bold;color : #ffffff;background-color : #002800;width : 45px;height : 22px;"><BR>
       <BR>
-      <INPUT type="button" value="‘O‚Ö" onclick="if (timeout_id) clearTimeout(timeout_id); timeout_id=null; showFrame(1);" style="font-size : 15px;font-weight : bold;color : #ffffff;background-color : #002800;width : 45px;height : 22px;"><BR>
+      <INPUT type="button" value="ï¿½Oï¿½ï¿½" onclick="if (timeout_id) clearTimeout(timeout_id); timeout_id=null; showFrame(1);" style="font-size : 15px;font-weight : bold;color : #ffffff;background-color : #002800;width : 45px;height : 22px;"><BR>
       <BR>
-      <INPUT type="button" value="ŽŸ‚Ö" onclick="if (timeout_id) clearTimeout(timeout_id); timeout_id=null; showFrame(0);" style="font-size : 35px;font-weight : bolder;color : white;background-color : #002800;width : 85px;height : 40px;"><BR>
+      <INPUT type="button" value="ï¿½ï¿½ï¿½ï¿½" onclick="if (timeout_id) clearTimeout(timeout_id); timeout_id=null; showFrame(0);" style="font-size : 35px;font-weight : bolder;color : white;background-color : #002800;width : 85px;height : 40px;"><BR>
       </TD>
     </TR>
     <TR>
-      <TD align="center" bgcolor="#e8ffe8"><A target="_top" href="../index.html"><FONT size="-1">ã‰zü<BR>
-      ‚ ‚ê‚±‚ê</FONT></A></TD>
+      <TD align="center" bgcolor="#e8ffe8"><A target="_top" href="https://sakurarough.wixsite.com/manatsu-kaze"><FONT size="-1">ï¿½ï¿½zï¿½ï¿½<BR>
+      ï¿½ï¿½ï¿½ê‚±ï¿½ï¿½</FONT></A></TD>
     </TR>
   </TBODY>
 </TABLE>
