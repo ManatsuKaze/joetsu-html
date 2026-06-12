@@ -1,0 +1,19 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="arekore">
+    <title>上越線あれこれ</title>
+    <link>http://xyz-kaze.net/arekore/index.html</link>
+    <description><![CDATA[ひひひ]]></description>
+    <dc:date>2008-09-05T00:40:28+00:00</dc:date>
+    <items>
+      <rdf:Seq>
+        <rdf:li resource="http://xyz-kaze.net/arekore/index.html"></rdf:li>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://xyz-kaze.net/arekore/index.html">
+    <title>追加</title>
+    <link>http://xyz-kaze.net/arekore/index.html</link>
+    <description><![CDATA[ふふふ]]></description>
+    <dc:date>2008-09-05T00:40:04+00:00</dc:date>
+  </item>
+</rdf:RDF>
