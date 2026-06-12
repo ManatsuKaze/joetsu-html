@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML LANG="ja">
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 11.0.0.0 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE>高崎～新前橋編　路線の移り変わり　スライド-真夏の風</TITLE>
+
+
+<SCRIPT TYPE="text/JavaScript">
+<!--
+var number = 20;
+var delay = 4000;
+var frame = -1;
+var timeout_id = null;
+var n=0;
+var filename = new Array("050.gif",
+"100.gif","101.gif","102.gif",
+"103.gif","104.gif","105.gif",
+"106.gif","107.gif","108.gif",
+"109.gif","110.gif","111.gif",
+"113.gif","114.gif",
+"115.gif","116.gif","117.gif",
+"118.gif","150.gif","160.jpg")
+var images = new Array(number);
+var end = Math.floor(filename.length/3)
+for(var i=0; i<end; i++) {
+images[i] = new Image();
+images[i].src = "image/" + filename[i];
+}
+
+function animate() {
+frame++;
+if (frame>=filename.length) {
+	frame=0;
+}
+document.slideshow.src = images[frame].src;
+if((end+n) < filename.length){
+	images[end+n]=new Image();
+	images[end+n].src="image/" + filename[end+n];
+	++n;
+}
+timeout_id = setTimeout("animate()", delay);
+}
+
+function showFrame(mode) {
+if(mode==0) {
+	++frame;
+	if (frame>=filename.length) {
+		frame=0;
+	}
+}
+else {
+	--frame;
+	if(frame<0) {
+		frame=filename.length-1;
+	}
+}
+	if((end+n) < frame){
+		images[frame]=new Image();
+		images[frame].src="image/" + filename[frame];
+	}
+	else {
+	if((end+n) < filename.length){
+		images[end+n]=new Image();
+		images[end+n].src="image/" + filename[end+n];
+		++n;
+	}
+}
+document.slideshow.src = images[frame].src;
+}
+//-->
+</SCRIPT>
+
+<STYLE type="text/css">
+<!--
+H1.TITLE {
+font-size : 20 pt;
+font-family : "ＤＨＰ平成明朝体W7";
+color : #009933;
+}
+-->
+</STYLE>
+
+
+</HEAD>
+<BODY link="#002800" vlink="#002800" alink="#002800" onload="showFrame(0);" bgcolor="#002800" text="#002800">
+<DIV align="center">
+<TABLE width="750" bgcolor="#FFFFFF" cellspacing="0">
+  <TBODY>
+    <TR>
+      <TD align="left" height="260" rowspan="3" width="640"><IMG name="slideshow" id="slideshow" src="image/050.gif" border="0" align="bottom" alt="高崎～新前橋編・路線の移り変わり"></TD>
+      <TD align="center" bgcolor="#e8ffe8"><A target="_top" href="../../index.html"><FONT size="-1">真夏の風</FONT></A></TD>
+    </TR>
+    <TR>
+      <TD align="center" valign="middle" bgcolor="#e8ffe8"><INPUT type="button" value="自動" onclick="if (timeout_id == null) animate()" style="font-size : 15px;font-weight : bold;color : #ffffff;background-color : #002800;width : 45px;height : 22px;"><BR>
+      <BR>
+      <INPUT type="button" value="停止" onclick="if (timeout_id) clearTimeout(timeout_id); timeout_id=null;" style="font-size : 15px;font-weight : bold;color : #ffffff;background-color : #002800;width : 45px;height : 22px;"><BR>
+      <BR>
+      <INPUT type="button" value="前へ" onclick="if (timeout_id) clearTimeout(timeout_id); timeout_id=null; showFrame(1);" style="font-size : 15px;font-weight : bold;color : #ffffff;background-color : #002800;width : 45px;height : 22px;"><BR>
+      <BR>
+      <INPUT type="button" value="次へ" onclick="if (timeout_id) clearTimeout(timeout_id); timeout_id=null; showFrame(0);" style="font-size : 35px;font-weight : bolder;color : white;background-color : #002800;width : 85px;height : 40px;"><BR>
+      </TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#e8ffe8"><A target="_top" href="../index.html"><FONT size="-1">上越線<BR>
+      あれこれ</FONT></A></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</DIV>
+</BODY>
+</HTML>
